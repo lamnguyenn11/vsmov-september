@@ -1,5 +1,5 @@
 {
-    "name": "vsmov/vsmov-september",
+    "name": "vsmov2/vsmov-september",
     "description": "VsMov's september theme",
     "type": "library",
     "authors": [
@@ -11,7 +11,7 @@
     "require": {
         "laravel/framework": "^6|^7|^8",
         "ckfinder/ckfinder-laravel-package": "v3.5.2.1",
-        "vsmov/vsmov-core": "^1.0.1"
+        "vsmov2/vsmov-core": "^1.0.1"
     },
     "license": "MIT",
     "autoload": {
